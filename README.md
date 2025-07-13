@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Muthubalajik
+## 👋 Hi, I’m Muthu Balaji
+
 - 👀 I’m interested in Mern Stack and Blockchain Development
-- 🌱 I’m currently learning MERN Stack
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning MERN Stack and DSA
 - 📫 How to reach me muthubalajikk@gmail.com
 
 <!---
